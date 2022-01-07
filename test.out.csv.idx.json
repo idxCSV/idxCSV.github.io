@@ -1,0 +1,18 @@
+{"meta": {
+"sig":"P-CSV 0.1.20211217",
+"rowLength":12,
+"maxRowIdx":3,
+"idxKeyLength":25,
+"idxColIdx":0,
+"idxColLabel":"ID",
+"hasSortedIdxCol":1,
+"hasUniqueIdxCol":1,
+"hasPaddedCol":0,
+"hasHeader":1,
+"header":["id","name","age"]
+},
+"indexes": {
+"01":1,
+"02":2,
+"03":3
+}}
